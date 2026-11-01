@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_how" android:title="@string/how_it_works" />
+    <item android:id="@+id/action_about" android:title="@string/about" />
+    <item android:id="@+id/action_refresh" android:title="@string/refresh" />
+    <item android:id="@+id/action_appinfo" android:title="@string/app_info" />
+</menu>

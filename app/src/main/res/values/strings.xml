@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PermissionLab</string>
+    <string name="about_title">About PermissionLab</string>
+    <string name="about_body">PermissionLab is an educational playground for the Android permission system. Every button asks the system for one permission so you can watch how the dialogs, grants and denials behave. The app only ever ASKS: it never uses what it is granted, collects nothing, sends nothing anywhere, and has no internet permission at all. Not affiliated with any vendor. Long-press any button to open the App info screen, where you can reset grants.</string>
+    <string name="how_title">How it works</string>
+    <string name="how_body">1. Tap a button to make the system show its permission dialog.\n2. Green buttons are already granted, grey buttons need a newer Android version.\n3. Deny twice and the system stops asking: long-press the button and reset it in App info.\n4. Special permissions (All files access, Exact alarms) cannot be granted by a dialog, so they open the exact Settings page instead.\n\nNothing the app is granted is ever used: no camera, no mic, no data, no internet.</string>
+    <string name="refresh">Refresh</string>
+    <string name="app_info">App info</string>
+    <string name="about">About</string>
+    <string name="how_it_works">How it works</string>
+</resources>
